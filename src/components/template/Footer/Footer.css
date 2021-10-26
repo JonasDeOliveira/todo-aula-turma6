@@ -1,0 +1,13 @@
+.footer {
+    background-color: #000000;
+    padding: 20px 0;
+}
+
+.list-footer li {
+    background-color: transparent;
+    color: #eee;
+}
+
+.copyright {
+    color: #ccc
+}
