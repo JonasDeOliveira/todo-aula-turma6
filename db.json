@@ -3,37 +3,17 @@
     {
       "id": 1,
       "description": "Estudar React",
-      "done": false
+      "done": true
     },
     {
-      "description": "uiuuiiuiuu",
-      "done": false,
-      "id": 2
-    },
-    {
-      "description": "sdasdsad",
-      "done": false,
-      "id": 3
-    },
-    {
-      "description": "12121",
+      "description": "teste 3",
       "done": false,
       "id": 4
     },
     {
-      "description": "asdsadas",
-      "done": false,
-      "id": 5
-    },
-    {
-      "description": "12121",
+      "description": "asdasdas",
       "done": false,
       "id": 6
-    },
-    {
-      "description": "12121",
-      "done": false,
-      "id": 7
     }
   ]
 }
